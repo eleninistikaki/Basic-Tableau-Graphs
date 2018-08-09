@@ -10,7 +10,13 @@ I used [this](https://onlinehelp.tableau.com/current/pro/desktop/en-us/dataview_
 
 * [Tableau](https://tableau.com/) - The data visualization tool used
 
-## Online View
+## Tableau Desktop View
+
+1. Download `Superstore Sample` and open it
+2. Download the graph you wish to view in Tableau Desktop and open it
+3. Enjoy!
+
+## Tableau Public View
 
 * [Area Chart](https://public.tableau.com/views/AreaChart_70/AreaChart?:embed=y&:display_count=yes)
 * [Bar Chart](https://public.tableau.com/shared/KSTRBB7J5?:display_count=yes)
